@@ -7,7 +7,7 @@ export class ShopsService {
     }
 
 
-    getShopById(id: string): string {
+    getShopById2(id: string): string {
         return `Get shop with ID: ${id}`;
     }
 }
